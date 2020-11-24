@@ -1,0 +1,52 @@
+2020-11-22T23:22:10.108-0300 INFO Starting DemoApplication on DESKTOP-U26BJ62 with PID 11304 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-22T23:22:10.116-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-22T23:22:11.294-0300 INFO Started DemoApplication in 1.406 seconds (JVM running for 2.124)
+2020-11-22T23:22:41.568-0300 INFO Info log
+2020-11-22T23:22:41.568-0300 WARN Hey, This is a warning!
+2020-11-22T23:22:41.569-0300 ERROR Oops! We have an Error. OK
+2020-11-22T23:22:41.569-0300 FATAL Damn! Fatal error. Please fix me.
+2020-11-22T23:31:15.699-0300 INFO Starting DemoApplication on DESKTOP-U26BJ62 with PID 240 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-22T23:31:15.706-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-22T23:31:16.835-0300 INFO Started DemoApplication in 1.349 seconds (JVM running for 1.997)
+2020-11-22T23:42:22.494-0300 INFO Starting DemoApplication on DESKTOP-U26BJ62 with PID 11692 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-22T23:42:22.500-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-22T23:42:23.608-0300 INFO Started DemoApplication in 1.332 seconds (JVM running for 1.968)
+2020-11-22T23:51:14.108-0300 INFO Starting DemoApplication on DESKTOP-U26BJ62 with PID 2832 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-22T23:51:14.115-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-22T23:51:15.198-0300 INFO Started DemoApplication in 1.339 seconds (JVM running for 1.963)
+2020-11-22T23:52:28.290-0300 INFO Starting DemoApplication on DESKTOP-U26BJ62 with PID 4132 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-22T23:52:28.298-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-22T23:52:29.583-0300 INFO Started DemoApplication in 1.54 seconds (JVM running for 2.234)
+2020-11-22T23:52:33.734-0300 INFO User:
+5a9ac18c7478810ea6c06381
+Fact:Lions are the only cats that live in groups, called prides. Every female within the pride is usually related.
+2020-11-22T23:53:32.754-0300 INFO Starting DemoApplication on DESKTOP-U26BJ62 with PID 2192 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-22T23:53:32.762-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-22T23:53:34.022-0300 INFO Started DemoApplication in 1.501 seconds (JVM running for 2.147)
+2020-11-22T23:53:36.269-0300 INFO User:58e007480aac31001185ecef
+Fact:There are 45 Hemingway cats living at the author's former home in Key West, Fla.
+2020-11-22T23:54:01.466-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:Cats can hear the ultrasonic noises that rodents and dolphins make to communicate.
+2020-11-22T23:54:04.894-0300 INFO User:5f57459d266c0600175937e9
+Fact:There are cases of cats reacting to natural disasters long before they happened.
+2020-11-22T23:54:05.644-0300 INFO User:5fb43945125696001717c6d2
+Fact:The oldest cat that ever lived enjoyed broccoli and red wine.
+2020-11-22T23:54:06.082-0300 INFO User:5f8d7543d3656c0017020082
+Fact:Asa.
+2020-11-22T23:54:06.481-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:When kittens ages to weeks five and six, they should start making the transition to dry food.
+2020-11-22T23:54:06.783-0300 INFO User:58e007480aac31001185ecef
+Fact:Basically all cartoon cats lied to us: Raw fish is off the table for cats as well.
+2020-11-22T23:54:29.602-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:Purring does not always indicate that a cat is happy. Cats will also purr loudly when they are distressed or in pain.
+2020-11-22T23:54:34.275-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:Female felines are "superfecund," which means that each of the kittens in her litter can have a different father.
+2020-11-22T23:54:34.790-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:Female cats are "polyestrous," which means they may have many heat periods over the course of a year. A heat period lasts about 4 to 7 days if the female is bred; if she is not, the heat period lasts longer and recurs at regular intervals.
+2020-11-22T23:54:35.255-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:The cat's tail is used to maintain balance.
+2020-11-22T23:54:36.903-0300 INFO User:5a9ac18c7478810ea6c06381
+Fact:When a cat yawns, it's mouth opens so wide that you can count every tooth.
+2020-11-23T22:24:52.512-0300 INFO Starting DemoApplicationTests on DESKTOP-U26BJ62 with PID 17016 (started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
+2020-11-23T22:24:52.535-0300 INFO No active profile set, falling back to default profiles: default
+2020-11-23T22:24:53.638-0300 INFO Started DemoApplicationTests in 1.276 seconds (JVM running for 2.639)
