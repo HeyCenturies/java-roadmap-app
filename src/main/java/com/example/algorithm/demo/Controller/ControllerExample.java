@@ -2,7 +2,7 @@ package com.example.algorithm.demo.Controller;
 
 import java.io.IOException;
 
-import com.example.algorithm.demo.Exception.ExceptionExample;
+import com.example.algorithm.demo.Models.Exception.ExceptionExample;
 import com.example.algorithm.demo.Models.AnimalResponseObject;
 import com.example.algorithm.demo.Models.SampleObject;
 import com.fasterxml.jackson.databind.ObjectMapper;
