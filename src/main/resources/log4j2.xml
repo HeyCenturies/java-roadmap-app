@@ -9,10 +9,12 @@
             <PatternLayout pattern="${LOG_PATTERN}" />
         </Console>
  
+
+        <!-- Log levels: https://javapapers.com/log4j/log4j-levels/-->
         <RollingFile name="appLog"
             fileName="logs/application.log"
             filePattern="logs/application-%d{yyyy-MM-dd}-%i.log">
-            <ThresholdFilter level="INFO"/>
+            <ThresholdFilter level="FATAL"/>
             <PatternLayout pattern="${LOG_PATTERN}" />
             <Policies>
                 <SizeBasedTriggeringPolicy size="19500KB" />
@@ -20,7 +22,8 @@
             <DefaultRolloverStrategy max="1" />
         </RollingFile>
  
-        <RollingFile name="secondFile"
+        <!--In case you want an external log file, you can have it as a RollingFile config
+             <RollingFile name="secondFile"
             fileName="C:/Users/T-Gamer/Desktop/logs/application.log"
             filePattern="C:/Users/T-Gamer/Desktop/logs/application-%d{yyyy-MM-dd}-%i.log">
             <ThresholdFilter level="ERROR"/>
@@ -30,7 +33,7 @@
             </Policies>
             <DefaultRolloverStrategy max="1" />
         </RollingFile>
-
+        -->
 
     </Appenders>
 
@@ -42,7 +45,7 @@
 
         <logger name="com.example.algorithm.demo" level="INFO">
             <AppenderRef ref="appLog" />
-            <AppenderRef ref="secondFile" />
+            <!--<AppenderRef ref="secondFile" /> -->
         </logger>
 
     </Loggers>

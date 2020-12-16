@@ -8,6 +8,9 @@ build/
 ### LOG FILES ###
 logs/
 /logs
+logs/*
+/logs/*
+
 
 ### STS ###
 .apt_generated

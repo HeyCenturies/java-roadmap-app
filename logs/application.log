@@ -1,6 +1,0 @@
-2020-11-30T00:17:50.331-0300 INFO ACTIVEMQ MESSAGE: example of a body
-2020-11-30T00:19:05.778-0300 INFO ACTIVEMQ MESSAGE: {"name":"John"}
-2020-11-30T00:19:05.798-0300 INFO Sending message HelloJohnto queue - outbound.queue
-2020-11-30T00:23:05.254-0300 INFO Starting MainApplication on DESKTOP-U26BJ62 with PID 17544 (C:\Users\T-Gamer\Desktop\demo\bin\main started by T-Gamer in C:\Users\T-Gamer\Desktop\demo)
-2020-11-30T00:23:05.274-0300 INFO No active profile set, falling back to default profiles: default
-2020-11-30T00:23:07.085-0300 INFO Started MainApplication in 2.105 seconds (JVM running for 2.861)

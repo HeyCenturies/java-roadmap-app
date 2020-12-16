@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.jms.annotation.EnableJms;
 import org.springframework.jms.config.DefaultJmsListenerContainerFactory;
 import org.springframework.jms.core.JmsTemplate;
+import org.springframework.util.backoff.FixedBackOff;
 
 @Configuration
 @EnableJms
@@ -37,9 +38,16 @@ public class JmsConfig {
 
 	@Bean
 	public DefaultJmsListenerContainerFactory jmsListenerContainerFactory() {
+
+		//Used in case the broker is not up, so the default backOff wont keep retrying to connect
+		FixedBackOff fixedBackOff = new FixedBackOff();
+        fixedBackOff.setMaxAttempts(3);
+		fixedBackOff.setInterval(5000);
+		
 	    DefaultJmsListenerContainerFactory factory = new DefaultJmsListenerContainerFactory();
 	    factory.setConnectionFactory(connectionFactory());
 		factory.setConcurrency("1-1");
+		factory.setBackOff(fixedBackOff);
 		/*This config will set mode to topic
         factory.setPubSubDomain(true);*/
 	    return factory;
